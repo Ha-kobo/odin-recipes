@@ -1,0 +1,21 @@
+body{
+    font-family: Arial; Verdana; "Times-New-Roman";
+    font-size: 18px; background-color: rgb(191, 221, 232);
+    
+}
+.button {
+    color: black;
+    background-color: rgb(191, 221, 231);
+    font-size: 30px;
+}
+.headtxt{
+    font-size: 28px;
+}
+.linktxt{
+    color: green;
+    font-size: 22px;
+    font-weight: bolder;
+}
+.center{
+    text-align: center;
+}
